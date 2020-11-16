@@ -1,0 +1,13 @@
+C:\Users\victo_000\Desktop\HTML\Conversor-de-idade-semanas\bin\Debug\netcoreapp3.1\Conversor-de-idade-semanas.exe
+C:\Users\victo_000\Desktop\HTML\Conversor-de-idade-semanas\bin\Debug\netcoreapp3.1\Conversor-de-idade-semanas.deps.json
+C:\Users\victo_000\Desktop\HTML\Conversor-de-idade-semanas\bin\Debug\netcoreapp3.1\Conversor-de-idade-semanas.runtimeconfig.json
+C:\Users\victo_000\Desktop\HTML\Conversor-de-idade-semanas\bin\Debug\netcoreapp3.1\Conversor-de-idade-semanas.runtimeconfig.dev.json
+C:\Users\victo_000\Desktop\HTML\Conversor-de-idade-semanas\bin\Debug\netcoreapp3.1\Conversor-de-idade-semanas.dll
+C:\Users\victo_000\Desktop\HTML\Conversor-de-idade-semanas\bin\Debug\netcoreapp3.1\Conversor-de-idade-semanas.pdb
+C:\Users\victo_000\Desktop\HTML\Conversor-de-idade-semanas\obj\Debug\netcoreapp3.1\Conversor-de-idade-semanas.csprojAssemblyReference.cache
+C:\Users\victo_000\Desktop\HTML\Conversor-de-idade-semanas\obj\Debug\netcoreapp3.1\Conversor-de-idade-semanas.AssemblyInfoInputs.cache
+C:\Users\victo_000\Desktop\HTML\Conversor-de-idade-semanas\obj\Debug\netcoreapp3.1\Conversor-de-idade-semanas.AssemblyInfo.cs
+C:\Users\victo_000\Desktop\HTML\Conversor-de-idade-semanas\obj\Debug\netcoreapp3.1\Conversor-de-idade-semanas.csproj.CoreCompileInputs.cache
+C:\Users\victo_000\Desktop\HTML\Conversor-de-idade-semanas\obj\Debug\netcoreapp3.1\Conversor-de-idade-semanas.dll
+C:\Users\victo_000\Desktop\HTML\Conversor-de-idade-semanas\obj\Debug\netcoreapp3.1\Conversor-de-idade-semanas.pdb
+C:\Users\victo_000\Desktop\HTML\Conversor-de-idade-semanas\obj\Debug\netcoreapp3.1\Conversor-de-idade-semanas.genruntimeconfig.cache
